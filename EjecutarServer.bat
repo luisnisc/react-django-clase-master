@@ -1,0 +1,1 @@
+start /min C:\Users\alumno\Documents\VS\api-bbdd\react-django-clase-master\server.bat
